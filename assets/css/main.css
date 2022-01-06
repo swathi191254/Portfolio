@@ -3235,3 +3235,9 @@ input, select, textarea {
 	#footer{
 		margin-top:-200px;
 	}
+	.resume > img{
+		width:20px;
+		height:20px;
+		background:rgb(22, 22, 22);
+		border-radius: 10%;
+	}
